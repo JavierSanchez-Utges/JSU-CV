@@ -1,4 +1,4 @@
-# Javier Sánchez Utgés's CV
+# Dr Javier Sánchez Utgés's CV
 
 - Phone: +44 7878 459945
 - Email: [utges03@gmail.com](mailto:utges03@gmail.com)
@@ -16,29 +16,31 @@
 
 ## University of Dundee, PhD in Structural Bioinformatics
 
-- Sept 2020 – present
-- PIPS Internship at ABPI
+- Sept 2020 – Mar 2025
 - Supervised 7 students across BSc, MSc and PhD degrees
-- Reviewer of contributions for ISMB 2024: 3DSIG
 - Student Representative of Computational Biology Division
+- Thesis: *"Computational methods for the characterisation and evaluation of protein-ligand binding sites"*
 
 ## Universitat Pompeu Fabra, MSc in Bioinformatics for Health Sciences
 
 - Sept 2018 – July 2020
 - Grade: 9.3/10
-- Honours: *Introduction to Perl*
 - 9-month Internship at the [Barton Group](https://www.compbio.dundee.ac.uk/), University of Dundee
-- MSc Thesis: *"Ankyrin repeats in context with population variation"*
+- Thesis: *"Ankyrin repeats in context with population variation"*
 
 ## Universitat Autònoma de Barcelona, BSc in Genetics
 
 - Sept 2014 – July 2018
 - Grade: 8.4/10
-- Honours: *Bioinformatics*, *Molecular Structure & Interactions*
 - 12-month Erasmus exchange at University of Dundee
 - Dissertation: *“Methods for the detection and estimation of selection acting upon the genome”*
 
 # Experience
+
+## University of Dundee, Research assistant
+
+- Mar 2025 – June 2025
+- Dundee, Scotland
 
 ## The Association of the British Pharmaceutical Industry (ABPI), Intern
 
@@ -106,12 +108,17 @@
 
 # Conferences
 
+## ELIXIR 3DBioInfo Annual General Meeting | ISCB 3DSIG 
+- Mar 2025
+- Talk: *"Computational methods for the characterisation and evaluation of protein-ligand  binding sites"*
+- Barcelona, Spain
+
 ## ISCB ISMB 2024 
 - July 2024
 - Poster: *"LIGYSIS: a resource for the analysis of ligand binding sites"*
 - Montreal, Canada
 
-## 3D-BioInfo | ICSB 3D-SIG | ELIXIR Czech Republic Community Meeting in Structural Bioinformatics 
+## 3DBioInfo | ICSB 3DSIG | ELIXIR Czech Republic Community Meeting 
 - Nov 2023
 - Poster: *"LIGYSIS: a resource for the analysis of ligand binding sites"*
 - Prague, Czech Republic

@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  18 MAY 2025 13:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  18 MAY 2025 14:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/2394007/Documents/PHD/JSU_CV/rendercv_output/Javier_Sánchez_Utgés_CV
-.tex
+**/Users/2394007/Documents/PHD/JSU_CV/rendercv_output/Dr_Javier_Sánchez_Utgés
+_CV.tex
 
-(/Users/2394007/Documents/PHD/JSU_CV/rendercv_output/Javier_Sánchez_Utgés_CV.
-tex
+(/Users/2394007/Documents/PHD/JSU_CV/rendercv_output/Dr_Javier_Sánchez_Utgés_
+CV.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 
@@ -723,8 +723,8 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 171.
 
-(./Javier_Sánchez_Utgés_CV.aux)
-\openout1 = `Javier_Sánchez_Utgés_CV.aux'.
+(./Dr_Javier_Sánchez_Utgés_CV.aux)
+\openout1 = `Dr_Javier_Sánchez_Utgés_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
 LaTeX Font Info:    ... okay on input line 171.
@@ -855,27 +855,27 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 223.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 223.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 225.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 225.
 
-Overfull \hbox (0.859pt too wide) in paragraph at lines 234--234
+Overfull \hbox (0.859pt too wide) in paragraph at lines 233--233
 []\T1/SourceSansPro-TLF/bold/n/10 MSc 
  []
 
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 238.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 238.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/it' on input line 306.
+(Font)              `T1/SourceSansPro-TLF/bold/it' on input line 314.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/it' will be
-(Font)              scaled to size 10.0pt on input line 306.
+(Font)              scaled to size 10.0pt on input line 314.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 366.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 374.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 366.
+(Font)              scaled to size 9.0pt on input line 374.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 366.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 374.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 366.
+(Font)              scaled to size 9.0pt on input line 374.
 [1
 
 {/Users/2394007/miniconda3/lib/python3.10/site-packages/rendercv/renderer/tinyt
@@ -891,10 +891,14 @@ on3.10/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts
 0/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/
 dvips/fontawesome5/fa5brands0.enc}{/Users/2394007/miniconda3/lib/python3.10/sit
 e-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips
-/sourcesanspro/a_5ponh6.enc}] [2] [3]
+/sourcesanspro/a_5ponh6.enc}]
+Overfull \hbox (58.06514pt too wide) in paragraph at lines 448--450
+[][]
+ []
 
+[2] [3] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./Javier_Sánchez_Utgés_CV.aux)
+(./Dr_Javier_Sánchez_Utgés_CV.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -902,12 +906,12 @@ L3 programming layer <2024-03-14>
  ) 
 Here is how much of TeX's memory you used:
  15806 strings out of 476002
- 289077 string characters out of 5788363
+ 289113 string characters out of 5788363
  1956496 words of memory out of 5000000
  37702 multiletter control sequences out of 15000+600000
  656083 words of font info for 62 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,386b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,389b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/2394007/miniconda3/lib/python3.10/site-packages/rendercv/renderer/tin
 ytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Bra
 nds-Regular.pfb></Users/2394007/miniconda3/lib/python3.10/site-packages/renderc
@@ -923,7 +927,7 @@ lib/python3.10/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-di
 st/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></Users/2394007/minicon
 da3/lib/python3.10/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texm
 f-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on Javier_Sánchez_Utgés_CV.pdf (3 pages, 271357 bytes).
+Output written on Dr_Javier_Sánchez_Utgés_CV.pdf (3 pages, 271030 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams

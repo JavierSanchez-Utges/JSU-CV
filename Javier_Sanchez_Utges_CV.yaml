@@ -1,5 +1,5 @@
 cv:
-  name: Javier Sánchez Utgés
+  name: Dr Javier Sánchez Utgés
   email: utges03@gmail.com
   phone: tel:+447878459945
   social_networks:
@@ -17,12 +17,13 @@ cv:
         area: Structural Bioinformatics
         degree: PhD
         start_date: 2020-09
-        end_date: 
+        end_date: 2025-03
         highlights:
-          - 'PIPS Internship at ABPI'
+          #- 'PIPS Internship at ABPI'
           - 'Supervised 7 students across BSc, MSc and PhD degrees'
-          - 'Reviewer of contributions for ISMB 2024: 3DSIG'
+          #- 'Reviewer of contributions for ISMB 2024: 3DSIG'
           - 'Student Representative of Computational Biology Division'
+          - 'Thesis: *"Computational methods for the characterisation and evaluation of protein-ligand binding sites"*'
       - institution: Universitat Pompeu Fabra
         area: Bioinformatics for Health Sciences
         degree: MSc
@@ -30,9 +31,9 @@ cv:
         end_date: 2020-07
         highlights:
           - 'Grade: 9.3/10'
-          - 'Honours: *Introduction to Perl*'
+          #- 'Honours: *Introduction to Perl*'
           - '9-month Internship at the [Barton Group](https://www.compbio.dundee.ac.uk/), University of Dundee'
-          - 'MSc Thesis: *"Ankyrin repeats in context with population variation"*'
+          - 'Thesis: *"Ankyrin repeats in context with population variation"*'
       - institution: Universitat Autònoma de Barcelona
         area: Genetics
         degree: BSc
@@ -40,10 +41,15 @@ cv:
         end_date: 2018-07
         highlights:
           - 'Grade: 8.4/10'
-          - 'Honours: *Bioinformatics*, *Molecular Structure & Interactions*'
+          #- 'Honours: *Bioinformatics*, *Molecular Structure & Interactions*'
           - '12-month Erasmus exchange at University of Dundee'
           - 'Dissertation: *“Methods for the detection and estimation of selection acting upon the genome”*'
     experience:
+      - company: University of Dundee
+        position: Research assistant
+        location: Dundee, Scotland
+        start_date: 2025-03
+        end_date: 2025-06
       - company: The Association of the British Pharmaceutical Industry (ABPI)
         position: Intern
         location: London, England
@@ -59,6 +65,14 @@ cv:
         highlights:
           - 'Internship at the [Calafell Lab](https://www.ibe.upf-csic.es/calafell) on Forensic and Population Genetics'
     publications:
+      - title: 'LIGYSIS-web: a resource for the analysis of protein-ligand binding sites'
+        authors:
+          - '***Utgés JS***'
+          - MacGowan SA
+          - Barton GJ
+        doi: 10.1093/nar/gkaf411
+        date: 2025-05
+        journal: Nucleic Acids Research
       - title: Comparative evaluation of methods for the prediction of protein-ligand binding sites
         authors:
           - '***Utgés JS***'
@@ -111,12 +125,18 @@ cv:
           - 'Tools: Python, ClustalO, Chimera, AMPS, gnomAD'
           - 'Packages: ProIntVar, ProteoFAV, VarAlign' 
     conferences:
+      - title: ELIXIR 3DBioInfo Annual General Meeting | ISCB 3DSIG
+        authors:
+           - "Talk: *\"Computational methods for the characterisation and evaluation of protein-ligand\  
+      binding sites\"*"
+        date: 2025-03
+        journal: Barcelona, Spain
       - title: ISCB ISMB 2024
         authors:
           - 'Poster: *"LIGYSIS: a resource for the analysis of ligand binding sites"*'
         date: 2024-07
         journal: Montreal, Canada
-      - title: 3D-BioInfo | ICSB 3D-SIG | ELIXIR Czech Republic Community Meeting in Structural Bioinformatics
+      - title: 3DBioInfo | ICSB 3DSIG | ELIXIR Czech Republic Community Meeting
         authors:
           - 'Poster: *"LIGYSIS: a resource for the analysis of ligand binding sites"*'
         date: 2023-11
