@@ -42,11 +42,11 @@ cv:
         highlights:
           - 'Grade: 8.4/10'
           #- 'Honours: *Bioinformatics*, *Molecular Structure & Interactions*'
-          - '12-month Erasmus exchange at University of Dundee'
+          - '9-month Erasmus exchange at University of Dundee'
           - 'Dissertation: *“Methods for the detection and estimation of selection acting upon the genome”*'
     experience:
       - company: University of Dundee
-        position: Research assistant
+        position: Postdoctoral Research assistant
         location: Dundee, Scotland
         start_date: 2025-03
         end_date: 2025-06
@@ -105,11 +105,11 @@ cv:
         highlights:
           - A Python Flask Web Application to explore protein-ligand binding sites
           - 'Tools: Python, JavaScript, HTML, CSS'
-          - 'Packages: Flask, 3DMol.js, Chart.js'
+          - 'Packages: Flask, 3Dmol.js, Chart.js'
       - name: LBS-comparison
         date: '[LBS-comparison](https://github.com/bartongroup/LBS-comparison)'
         highlights:
-          - The largest benchmark of ligand binding site prediction methods.
+          - The largest benchmark of ligand binding site prediction methods
           - 'Tools: Python, P2Rank, fpocket, IF-SitePred, POVME'
           - 'Packages: BioPython, Pandas, Sklearn'
       - name: FRAGSYS
@@ -163,11 +163,11 @@ cv:
         journal: Online
     assets:
       - label: Languages
-        details: Python, Bash, R, JavaScript, HTML, CSS.
+        details: Python, Bash, R, JavaScript, HTML, CSS
       - label: Software
-        details: Jalview, ChimeraX, PyMol, Clustal, HMMER.
+        details: Jalview, ChimeraX, PyMol, Clustal, HMMER
       - label: Skills
-        details: Protein sequence and structure analysis, machine learning, web development, workflow generation, method benchmarking, version control, scientific writing, supervision, team work. 
+        details: Protein sequence and structure analysis, machine learning, web development, workflow generation, method benchmarking, version control, scientific writing, supervision, team work
     languages:
       - label: Spanish and Catalan
         details: Mother tongue

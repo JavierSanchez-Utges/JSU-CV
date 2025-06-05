@@ -32,12 +32,12 @@
 
 - Sept 2014 – July 2018
 - Grade: 8.4/10
-- 12-month Erasmus exchange at University of Dundee
+- 9-month Erasmus exchange at University of Dundee
 - Dissertation: *“Methods for the detection and estimation of selection acting upon the genome”*
 
 # Experience
 
-## University of Dundee, Research assistant
+## University of Dundee, Postdoctoral Research assistant
 
 - Mar 2025 – June 2025
 - Dundee, Scotland
@@ -83,12 +83,12 @@
 - [LIGYSIS-web](https://github.com/JavierSanchez-Utges/LIGYSIS-web)
 - A Python Flask Web Application to explore protein-ligand binding sites
 - Tools: Python, JavaScript, HTML, CSS
-- Packages: Flask, 3DMol.js, Chart.js
+- Packages: Flask, 3Dmol.js, Chart.js
 
 ## LBS-comparison
 
 - [LBS-comparison](https://github.com/bartongroup/LBS-comparison)
-- The largest benchmark of ligand binding site prediction methods.
+- The largest benchmark of ligand binding site prediction methods
 - Tools: Python, P2Rank, fpocket, IF-SitePred, POVME
 - Packages: BioPython, Pandas, Sklearn
 
@@ -145,9 +145,9 @@
 
 # Assets
 
-- Languages: Python, Bash, R, JavaScript, HTML, CSS.
-- Software: Jalview, ChimeraX, PyMol, Clustal, HMMER.
-- Skills: Protein sequence and structure analysis, machine learning, web development, workflow generation, method benchmarking, version control, scientific writing, supervision, team work.
+- Languages: Python, Bash, R, JavaScript, HTML, CSS
+- Software: Jalview, ChimeraX, PyMol, Clustal, HMMER
+- Skills: Protein sequence and structure analysis, machine learning, web development, workflow generation, method benchmarking, version control, scientific writing, supervision, team work
 # Languages
 
 - Spanish and Catalan: Mother tongue
